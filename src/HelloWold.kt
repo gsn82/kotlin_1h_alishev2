@@ -6,7 +6,10 @@ fun main(){
     var test2: String = "Hello"
     test2 = "Goodbye"
 
-    println("Hi jon $test1")
+    println("Value of test2 $test2")
 
-    println("2+2 = $(2+2)")
+    println("Sum is ${2+2}")
+
+
+
 }
